@@ -24,14 +24,11 @@
 # Back-End
 ## APIs
 
-* Create a list of doctors
+* Get list of doctors
     * doctor name
     * hospital name
-    * Appointments available
-    * Visiting duration
-* Need to see the available appointments.
-    * Scheduled appointments
-    * Available slots
+* Make an appointment.
+    * check the doctor availability with the date and time. - If available we need to get a message known as available. if we should get an error message
 
 # Front-End
 ## Design
