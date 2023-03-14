@@ -23,13 +23,15 @@
 
 # Back-End
 ## APIs
-use these apis to get the data as required.
 
-* [https://dummyjson.com/products](Products) - use this api to get the product list
-* [https://dummyjson.com/products/{productId}](Products) - use this route to get a single product data
-* [https://dummyjson.com/products/search?q=Laptop](Products) - To create the search pass data in this format.
-* [https://dummyjson.com/products/categories](Products) - Use this route to get the category list.
-* [https://dummyjson.com/products/category/smartphones](Products) - Use this route to get data for an single category.
+* Create a list of doctors
+    * doctor name
+    * hospital name
+    * Appointments available
+    * Visiting duration
+* Need to see the available appointments.
+    * Scheduled appointments
+    * Available slots
 
 # Front-End
 ## Design
