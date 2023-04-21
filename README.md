@@ -36,6 +36,8 @@
 * Do the design as mentioned in the design folder.
 * use the same API routes that you created.
 * other than the data that have been provided in the routs the rest should be static.
+* Before you click on the submit button in the home page you need to do an human verification please use cluodflare fot this
+(https://www.cloudflare.com/en-gb/products/turnstile/?utm_source=turnstile&utm_campaign=widget)
 
 ## WorkFlow
 
