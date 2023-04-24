@@ -33,11 +33,19 @@
 # Front-End
 ## Design
 
+### Task -1
+* Develop the form which we have given you in the forms folder using next js.
+* Please develop it as a separate module.
+* Please add the upload CV section and and the mobile number should be verified.
+* The clear button in the design also should be functional as in the design.
+* And you should add a a proper form validation as well in the way we have displayed in the form
+### Task -2
 * Do the design as mentioned in the design folder.
 * use the same API routes that you created.
 * other than the data that have been provided in the routs the rest should be static.
-* Before you click on the submit button in the home page you need to do an human verification please use cluodflare fot this
+* Before you click on the submit button in the home page you need to do an human verification please use cloudflare fot this
 (https://www.cloudflare.com/en-gb/products/turnstile/?utm_source=turnstile&utm_campaign=widget)
+* You need to send a email for both applicant(upload success) and the organization(new applicant) please develop the email templates separately. (please use the given email template to send the email for the both applicant and the organization.)
 
 ## WorkFlow
 
@@ -45,6 +53,7 @@
 * And when developing the project use reusable components.
 * Try maintaining a separate SCSS file for fonts and colors.
 * Develop this project on React version 16 or above.
+* Please work on the front-end task in the order we have mentioned and let us know when its completed
 
 ## Project Structure
 
